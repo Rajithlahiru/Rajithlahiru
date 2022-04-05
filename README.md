@@ -11,7 +11,7 @@ Skills: REACT / JS / HTML / CSS / PHP / DJango / Python / Java
 - 📫 How to reach me: rajithlahiru7@gmail.com 
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajithlahiru)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajithlahiru&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajithlahiru&show_icons=true&count_private=true&theme=radical)  
 
