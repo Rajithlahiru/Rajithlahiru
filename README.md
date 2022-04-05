@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, my name is Rajith
+#### I am a Computer Science Student
+![I am a Computer Science Student](https://github.com/Rajithlahiru/Rajithlahiru/blob/main/image.png?raw=true)
 
-<!--
-**Rajithlahiru/Rajithlahiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Back-End Developer 
 
-Here are some ideas to get you started:
+Skills: REACT / JS / HTML / CSS / PHP / DJango / Python / Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Creative IT Solution Sri Lanka 
+- 🌱 I’m currently learning MERN / Django 
+- 📫 How to reach me: rajithlahiru7@gmail.com 
+
+
+
+
