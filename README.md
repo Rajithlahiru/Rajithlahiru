@@ -13,7 +13,7 @@ Skills: REACT / JS / HTML / CSS / PHP / DJango / Python / Java
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajithlahiru)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajithlahiru&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajithlahiru&show_icons=true&count_private=true&theme=radical)  
 
 ![Profile views](https://gpvc.arturio.dev/Rajithlahiru) 
 
