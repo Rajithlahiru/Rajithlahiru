@@ -10,6 +10,12 @@ Skills: REACT / JS / HTML / CSS / PHP / DJango / Python / Java
 - 🌱 I’m currently learning MERN / Django 
 - 📫 How to reach me: rajithlahiru7@gmail.com 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color="#fff">](https://github.com/Rajithlahiru)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Rajithlahiru1)  
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajithlahiru)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajithlahiru&show_icons=true&count_private=true)  
+
+![Profile views](https://gpvc.arturio.dev/Rajithlahiru) 
 
 
