@@ -2,7 +2,7 @@
 #### <h3>I am a Computer Science Student<h3>
 ![I am a Computer Science Student](https://github.com/Rajithlahiru/Rajithlahiru/blob/main/image.png?raw=true)  
 
-<p> <img align="right" alt="gif" src="https://github.com/Rajithlahiru/Rajithlahiru/blob/main/softwaredev.gif" width="350" height="350"/> </p>
+<!-- <p> <img align="right" alt="gif" src="https://github.com/Rajithlahiru/Rajithlahiru/blob/main/softwaredev.gif" width="350" height="350"/> </p> -->
 
 💻🔩 Back-End Developer 😎😎
 <br><br>
