@@ -5,7 +5,7 @@
 
 💻🔩 Back-End Developer 😎😎
 <br><br>
-Skills:  REACT / JS / HTML / CSS / PHP / DJango / Python / Java
+Skills:  REACT / JS / HTML / CSS / PHP / DJango / Python / Java / Tensorflow
 <br><br>
 - 🔭 I’m currently working on Creative IT Solution Sri Lanka 
 - 🌱 I’m currently learning MERN / Django / tensorflow 
