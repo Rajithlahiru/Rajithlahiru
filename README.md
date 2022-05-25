@@ -3,9 +3,9 @@
 ![I am a Computer Science Student](https://github.com/Rajithlahiru/Rajithlahiru/blob/main/cover%20photo.png?raw=true)  
 
 
-💻🔩 Back-End Developer 😎😎
+
 <br><br>
-Skills:  REACT / JS / HTML / CSS / PHP / DJango / Python / Java / Tensorflow
+Skills:  REACT / JS / HTML / CSS / PHP / DJango / Python / Java / Tensorflow / Javascript
 <br><br>
 - 🔭 I’m currently working on Creative IT Solution Sri Lanka 
 - 🌱 I’m currently learning MERN / Django / tensorflow 
