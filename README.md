@@ -11,7 +11,7 @@ Skills:  REACT / JS / HTML / CSS / PHP / DJango / Python / Java / Tensorflow / J
 - 🌱 I’m currently learning MERN / Django / tensorflow 
 - 📫 How to reach me: rajithlahiru7@gmail.com 
 - 👨‍💻 All of my projects are available at [https://github.com/Rajithlahiru](https://github.com/Rajithlahiru)  
-- 🔭 I’m currently working on [Ecommerce Back-End](https://github.com/Rajithlahiru/E--Commerce-Back-end.git) and [image classification with tensorflow](https://github.com/Rajithlahiru/Machine-Learning-Tensorflow.git)
+- 🔭 I’m currently working on [Garbage Collecting App](https://github.com/Rajithlahiru/Garbage_App.git)
 - 💬 Ask me about **Django , C , Python, tensorflow**
 
     
