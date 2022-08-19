@@ -7,20 +7,16 @@
 <br><br>
 Skills:  REACT / JS / HTML / CSS / PHP / DJango / Python / Java / Tensorflow / Javascript
 <br><br>
-- 🔭 I’m currently working on Creative IT Solution Sri Lanka 
-- 🌱 I’m currently learning MERN / Django / tensorflow 
+- 🔭 I’m currently working as a Freelancer 
+- 🌱 I’m currently learning  Django / tensorflow / Socket.io
 - 📫 How to reach me: rajithlahiru7@gmail.com 
 - 👨‍💻 All of my projects are available at [https://github.com/Rajithlahiru](https://github.com/Rajithlahiru)  
 - 🔭 I’m currently working on [Garbage Collecting App](https://github.com/Rajithlahiru/Garbage_App.git)
-- 💬 Ask me about **Django , C , Python, tensorflow**
+- 💬 Ask me about **Django , C , Python**
 
     
     
-    
-    
-<br><br><br><br><br>
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=Rajithlahiru&show_icons=true&count_private=true&theme=tokyonight"/>
-<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajithlahiru&layout=compact" />
+<br><br>
 
 
 
