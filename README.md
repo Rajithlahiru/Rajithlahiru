@@ -11,7 +11,7 @@ Skills:  HTML / CSS / PHP / DJango / Python / Java / Tensorflow / Javascript
 
 <br><br>
 - 🔭 I’m currently working as a Freelancer 
-- 🌱 I’m currently learning  Django / tensorflow / Socket.io
+- 🌱 I’m currently learning  Django / tensorflow / Socket.io / MERN
 - 📫 How to reach me: rajithlahiru7@gmail.com 
 - 👨‍💻 All of my projects are available at [https://github.com/Rajithlahiru](https://github.com/Rajithlahiru)  
 - 🔭 I’m currently working on [Garbage Collecting App](https://github.com/Rajithlahiru/Garbage_App.git)
