@@ -1,4 +1,3 @@
-### <h1><b></b></h1>
 #### <h3>Hi there 👋, I'm Rajith <br> I am a Computer Science Student<h3>
 - 🔭 I’m currently working as a Freelancer 
 - 🌱 I’m currently learning  Django / tensorflow / Socket.io / MERN / Spring Boot
