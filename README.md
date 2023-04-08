@@ -1,4 +1,4 @@
-### <h1><b>Hi there 👋, my name is Rajith</b></h1>
+### <h1><b>Hi there 👋, I'm Rajith</b></h1>
 #### <h3>I am a Computer Science Student<h3>
 ![I am a Computer Science Student](https://github.com/Rajithlahiru/Rajithlahiru/blob/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png?raw=true)  
 
