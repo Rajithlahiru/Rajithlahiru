@@ -6,9 +6,12 @@
 - 🔭 I’m currently working on [Garbage Collecting App](https://github.com/Rajithlahiru/Garbage_App.git)
 - 💬 Ask me about **Django , C , Python**
 
-    
-    
-<br><br>
+#### <h3>Quotes of the day<h3>
+ 
+ I Hear and I Forget,  
+ I See and I Remember,  
+ I Do and I Understand  🥂
+
 
 
 
