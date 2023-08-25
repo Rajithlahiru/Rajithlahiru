@@ -10,7 +10,9 @@
  
  I Hear and I Forget,  
  I See and I Remember,  
- I Do and I Understand  🥂
+ I Do and I Understand  🥂  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ -Confucius-
 
 
 
