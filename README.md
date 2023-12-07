@@ -1,4 +1,6 @@
-#### <h3>Hi there 👋, I'm Rajith <br> I am a Computer Science Student<h3>
+#### <h3>Hi there 👋, I'm Rajith <br> I am a Computer Science Student<h3> <br> <h4> Interest in Machine Learning ✨💯 </h4>
+
+  
 - 🔭 I’m currently working as a Freelancer and junior backend engineer at quadrats solutions
 - 🌱 I’m currently learning  Django / tensorflow / PyTorch / Socket.io / MERN / Spring Boot
 - 📫 How to reach me: rajithlahiru7@gmail.com 
