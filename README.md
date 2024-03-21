@@ -1,4 +1,4 @@
-#### <h3>Hi there 👋, I'm Rajith <br> I am a Computer Science Student<h3> <br> <h4> Interest in Machine Learning ✨💯 </h4>
+#### <h3>Hi there 👋, I'm Rajith <br> I am a Computer Science Student<h3> <br> <h4> Intern Software Engineer at WILEY ✨💯 </h4>
 
   
 - 🔭 I’m currently working as a Freelancer and junior backend engineer at quadrats solutions
