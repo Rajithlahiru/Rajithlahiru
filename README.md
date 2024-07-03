@@ -2,10 +2,10 @@
 
   
 - 🔭 I’m currently working as an Intern Software Engineer at Wiley Global
-- 🌱 I’m currently learning  Django / tensorflow / PyTorch / Socket.io / MERN / Spring Boot
+- 🌱 I’m currently learning  QT framework with C++
 - 📫 How to reach me: rajithlahiru7@gmail.com 
 - 👨‍💻 All of my projects are available at [https://github.com/Rajithlahiru](https://github.com/Rajithlahiru)  
-- 🔭 I’m currently working on [Learning PyTorch](https://github.com/Rajithlahiru/Learning-PyTorch)
+- 🔭 I’m currently working on building some demo apps to get a better understanding of the QT framework
 - 💬 Ask me about **Django**
 
 #### <h3>Quotes of the day<h3>
