@@ -1,22 +1,52 @@
-#### <h3>Hi there 👋, I'm Rajith <br> I am a Computer Science Student<h3> <br> <h4> Intern Software Engineer at WILEY ✨💯 </h4>
+# Hi there! I'm Rajith Lahiru 👋
 
-  
-- 🔭 I’m currently working as an Intern Software Engineer at Wiley Global
-- 🌱 I’m currently learning  QT framework with C++
-- 📫 How to reach me: rajithlahiru7@gmail.com 
-- 👨‍💻 All of my projects are available at [https://github.com/Rajithlahiru](https://github.com/Rajithlahiru)  
-- 🔭 I’m currently working on building some demo apps to get a better understanding of the QT framework
-- 💬 Ask me about **Django**
+## About Me
 
-#### <h3>Quotes of the day<h3>
- 
- I Hear and I Forget,  
- I See and I Remember,  
- I Do and I Understand  🥂  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- -Confucius-
+I'm an enthusiastic **Intern Engineer at Wiley** with a keen interest in developing innovative software solutions. I am currently looking for associate engineer positions and diving deep into the world of **C++**, **machine learning**, and **game development**.
 
-
-
-
-
+```json
+{
+  "introduction": {
+    "greeting": "Hi there! I'm Rajith Lahiru 👋",
+    "aboutMe": "I'm an enthusiastic Intern Engineer at Wiley with a keen interest in developing innovative software solutions. I am currently looking for associate engineer positions and diving deep into the world of C++, machine learning, and game development.",
+    "highlights": [
+      "💻 Currently learning C++",
+      "🤖 Interest in Machine Learning",
+      "🎮 Interest in Game Development",
+      "🧮 Maths lover",
+      "🚀 Fast learner",
+      "🌐 Exploring new technologies and staying up-to-date with industry trends"
+    ]
+  },
+  "skills": {
+    "programmingLanguages": ["C++", "Python", "JavaScript"],
+    "frameworksAndLibraries": ["Qt", "React", "Node.js"],
+    "toolsAndPlatforms": ["Git", "GitHub", "Docker", "Jenkins"],
+    "databases": ["MySQL", "MongoDB"],
+    "operatingSystems": ["Windows", "Linux"]
+  },
+  "projects": [
+    {
+      "name": "[Pong Game]",
+      "description": "A simple 2D pong game using C++ and Raylib",
+      "link": "https://github.com/Rajithlahiru/Pong-Game-Cpp"
+    },
+    {
+      "name": "[Bin Eazy]",
+      "description": "This is a garbage collecting solution using Django and image classification using Pytorch",
+      "link": "https://github.com/Rajithlahiru/Garbage_App"
+    }
+  ],
+  "contact": {
+    "LinkedIn": "https://www.linkedin.com/in/rajithlahiru/",
+    "Portfolio": "under development",
+    "Email": "rajithlahiru7@gmail.com"
+  },
+  "funFacts": [
+    "🌟 I enjoy exploring new technologies and frameworks",
+    "🎮 In my free time, I love playing video games",
+    "📚 Avid reader of tech blogs"
+  ],
+  "closing": "Feel free to reach out to me for collaboration on projects, discussing new ideas, or just to say hi!",
+  "signature": "*This README was generated with ❤️ by Rajith Lahiru*"
+}
