@@ -39,7 +39,7 @@ I'm an enthusiastic **Intern Engineer at Wiley** with a keen interest in develop
   ],
   "contact": {
     "LinkedIn": "https://www.linkedin.com/in/rajithlahiru/",
-    "Portfolio": "under development",
+    "Portfolio": "rajithlahiru.me",
     "Email": "rajithlahiru7@gmail.com"
   },
   "funFacts": [
