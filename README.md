@@ -20,7 +20,7 @@ I'm an enthusiastic **Intern Engineer at Wiley** with a keen interest in develop
   },
   "skills": {
     "programmingLanguages": ["C++", "Python", "JavaScript"],
-    "frameworksAndLibraries": ["Qt", "Raylib", "Node.js","Django"],
+    "frameworksAndLibraries": ["Qt", "Raylib", "Node.js","Express.js","Django"],
     "toolsAndPlatforms": ["Git", "GitHub", "Docker", "Jenkins"],
     "databases": ["MySQL", "MongoDB"],
     "operatingSystems": ["Windows", "Linux"]
